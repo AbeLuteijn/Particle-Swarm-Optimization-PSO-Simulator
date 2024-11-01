@@ -35,7 +35,7 @@ The PSO parameters can be easily adjusted through the `PSOConfig` class, includi
 Clone the repository and explore the simulation with different configurations. Customize the search space and influence factors to see how they affect the behavior of the swarm and the resulting optimization process.
 
 ```bash
-git clone https://github.com/yourusername/pso-simulator.git
+git clone https://github.com/AbeLuteijn/Particle-Swarm-Optimization-PSO-Simulator.git
 cd pso-simulator
 ```
 
